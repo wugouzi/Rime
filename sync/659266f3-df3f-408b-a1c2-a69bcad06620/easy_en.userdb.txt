@@ -1,0 +1,27 @@
+# Rime user dictionary
+#@/db_name	easy_en
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	24
+#@/user_id	659266f3-df3f-408b-a1c2-a69bcad06620
+blade 	blade	c=1 d=1 t=5
+clang 	clang	c=1 d=1 t=20
+clear 	clear	c=1 d=1 t=15
+common 	common	c=1 d=1 t=21
+drop 	drop	c=1 d=1 t=7
+handle 	handle	c=1 d=1 t=13
+hard 	hard	c=1 d=1 t=3
+last 	last	c=2 d=1.99501 t=24
+mail 	mail	c=1 d=1 t=19
+make 	make	c=1 d=1 t=10
+prepare 	prepare	c=1 d=1 t=6
+push 	push	c=2 d=1.98511 t=14
+region 	region	c=1 d=1 t=12
+rust 	rust	c=1 d=1 t=17
+slab 	slab	c=1 d=1 t=4
+stop 	stop	c=1 d=1 t=18
+test 	test	c=1 d=1 t=8
+there 	there	c=1 d=1 t=1
+this 	this	c=1 d=1 t=16
+unsigned 	unsigned	c=1 d=1 t=22
+women 	women	c=1 d=1 t=2
